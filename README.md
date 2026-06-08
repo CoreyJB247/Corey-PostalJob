@@ -1,2 +1,2 @@
 # Corey-PostalJob
-FiveM Postal Job for ESX
+FiveM Postal Job for ESX and QBX
